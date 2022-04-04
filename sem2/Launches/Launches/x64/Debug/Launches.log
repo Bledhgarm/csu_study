@@ -1,0 +1,16 @@
+﻿  main.c
+C:\Users\kurut\source\repos\Launches\Launches\main.c(10,44): warning C4133: функция: несовместимые типы - из "char *" в "LPCWSTR"
+C:\Users\kurut\source\repos\Launches\Launches\main.c(10,50): warning C4047: функция: "DWORD" отличается по уровням косвенного обращения от "void *"
+C:\Users\kurut\source\repos\Launches\Launches\main.c(10,46): warning C4024: RegCreateKeyExW: различные типы для формального и фактического параметров 3
+C:\Users\kurut\source\repos\Launches\Launches\main.c(12,30): warning C4133: функция: несовместимые типы - из "char *" в "LPCWSTR"
+C:\Users\kurut\source\repos\Launches\Launches\main.c(12,50): warning C4133: функция: несовместимые типы - из "DWORD *" в "LPBYTE"
+C:\Users\kurut\source\repos\Launches\Launches\main.c(16,25): warning C4133: функция: несовместимые типы - из "char *" в "LPCWSTR"
+C:\Users\kurut\source\repos\Launches\Launches\main.c(16,31): warning C4047: функция: "DWORD" отличается по уровням косвенного обращения от "void *"
+C:\Users\kurut\source\repos\Launches\Launches\main.c(16,27): warning C4024: RegSetValueExW: различные типы для формального и фактического параметров 3
+C:\Users\kurut\source\repos\Launches\Launches\main.c(16,50): warning C4133: функция: несовместимые типы - из "DWORD *" в "const BYTE *"
+C:\Users\kurut\source\repos\Launches\Launches\main.c(19,25): warning C4133: функция: несовместимые типы - из "char *" в "LPCWSTR"
+C:\Users\kurut\source\repos\Launches\Launches\main.c(19,31): warning C4047: функция: "DWORD" отличается по уровням косвенного обращения от "void *"
+C:\Users\kurut\source\repos\Launches\Launches\main.c(19,27): warning C4024: RegSetValueExW: различные типы для формального и фактического параметров 3
+C:\Users\kurut\source\repos\Launches\Launches\main.c(19,50): warning C4133: функция: несовместимые типы - из "DWORD *" в "const BYTE *"
+C:\Users\kurut\source\repos\Launches\Launches\main.c(9,1): warning C4133: инициализация: несовместимые типы - из "unsigned short [6]" в "char *"
+  Launches.vcxproj -> C:\Users\kurut\source\repos\Launches\x64\Debug\Launches.exe

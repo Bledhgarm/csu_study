@@ -1,0 +1,3 @@
+﻿  main.c
+C:\Users\kurut\source\repos\7hack\7hack\main.c(21,40): warning C4020: system: слишком много фактических параметров
+  7hack.vcxproj -> C:\Users\kurut\source\repos\7hack\Debug\7hack.exe
