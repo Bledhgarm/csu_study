@@ -1,0 +1,3 @@
+﻿  main.c
+C:\Users\kurut\source\repos\Text_sort\Text_sort\main.c(68,25): warning C4267: return: преобразование из "size_t" в "int"; возможна потеря данных
+  Text_sort.vcxproj -> C:\Users\kurut\source\repos\Text_sort\x64\Debug\Text_sort.exe
