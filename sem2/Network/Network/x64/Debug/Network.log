@@ -1,0 +1,5 @@
+﻿  main.c
+C:\Users\kurut\source\repos\Network\Network\main.c(63,17): warning C4133: функция: несовместимые типы - из "SOCKADDR_IN *" в "const sockaddr *"
+C:\Users\kurut\source\repos\Network\Network\main.c(76,14): warning C4133: функция: несовместимые типы - из "SOCKADDR_IN *" в "const sockaddr *"
+C:\Users\kurut\source\repos\Network\Network\main.c(84,48): warning C4133: функция: несовместимые типы - из "SOCKADDR_IN *" в "sockaddr *"
+  Network.vcxproj -> C:\Users\kurut\source\repos\Network\x64\Debug\Network.exe
