@@ -1,0 +1,10 @@
+﻿  main.c
+C:\Users\kurut\Desktop\csu_study\sem2\Network\Network\main.c(117,17): warning C4133: функция: несовместимые типы - из "SOCKADDR_IN *" в "const sockaddr *"
+C:\Users\kurut\Desktop\csu_study\sem2\Network\Network\main.c(130,14): warning C4133: функция: несовместимые типы - из "SOCKADDR_IN *" в "const sockaddr *"
+C:\Users\kurut\Desktop\csu_study\sem2\Network\Network\main.c(138,48): warning C4133: функция: несовместимые типы - из "SOCKADDR_IN *" в "sockaddr *"
+  Создание кода
+  2 of 12 functions (16.7%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  Создание кода завершено
+  Network.vcxproj -> C:\Users\kurut\Desktop\csu_study\sem2\Network\x64\Release\Network.exe

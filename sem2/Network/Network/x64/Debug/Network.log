@@ -1,5 +1,10 @@
 ﻿  main.c
-C:\Users\kurut\source\repos\Network\Network\main.c(63,17): warning C4133: функция: несовместимые типы - из "SOCKADDR_IN *" в "const sockaddr *"
-C:\Users\kurut\source\repos\Network\Network\main.c(76,14): warning C4133: функция: несовместимые типы - из "SOCKADDR_IN *" в "const sockaddr *"
-C:\Users\kurut\source\repos\Network\Network\main.c(84,48): warning C4133: функция: несовместимые типы - из "SOCKADDR_IN *" в "sockaddr *"
-  Network.vcxproj -> C:\Users\kurut\source\repos\Network\x64\Debug\Network.exe
+C:\Users\kurut\Desktop\csu_study\sem2\Network\Network\main.c(26,22): warning C4047: функция: "int" отличается по уровням косвенного обращения от "char *"
+C:\Users\kurut\Desktop\csu_study\sem2\Network\Network\main.c(26,17): warning C4024: isdigit: различные типы для формального и фактического параметров 1
+C:\Users\kurut\Desktop\csu_study\sem2\Network\Network\main.c(27,17): warning C4047: =: "char" отличается по уровням косвенного обращения от "char *"
+C:\Users\kurut\Desktop\csu_study\sem2\Network\Network\main.c(50,2): error C4996: 'itoa': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _itoa. See online help for details.
+C:\Users\kurut\Desktop\csu_study\sem2\Network\Network\main.c(110,17): warning C4133: функция: несовместимые типы - из "SOCKADDR_IN *" в "const sockaddr *"
+C:\Users\kurut\Desktop\csu_study\sem2\Network\Network\main.c(111,11): error C2198: messages: слишком мало аргументов для вызова
+C:\Users\kurut\Desktop\csu_study\sem2\Network\Network\main.c(123,14): warning C4133: функция: несовместимые типы - из "SOCKADDR_IN *" в "const sockaddr *"
+C:\Users\kurut\Desktop\csu_study\sem2\Network\Network\main.c(131,48): warning C4133: функция: несовместимые типы - из "SOCKADDR_IN *" в "sockaddr *"
+C:\Users\kurut\Desktop\csu_study\sem2\Network\Network\main.c(132,12): error C2198: messages: слишком мало аргументов для вызова
