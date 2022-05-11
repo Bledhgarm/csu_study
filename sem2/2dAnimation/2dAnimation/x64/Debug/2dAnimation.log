@@ -1,0 +1,5 @@
+﻿  main.c
+LINK : warning LNK4098: библиотека по умолчанию "MSVCRT" конфликтует с использованием других библиотек; используйте /NODEFAULTLIB:library
+raylib.lib(rcore.obj) : error LNK2019: ссылка на неразрешенный внешний символ timeBeginPeriod в функции InitWindow.
+raylib.lib(rcore.obj) : error LNK2019: ссылка на неразрешенный внешний символ timeEndPeriod в функции CloseWindow.
+C:\Users\kurut\source\repos\2dAnimation\x64\Debug\2dAnimation.exe : fatal error LNK1120: неразрешенных внешних элементов: 2

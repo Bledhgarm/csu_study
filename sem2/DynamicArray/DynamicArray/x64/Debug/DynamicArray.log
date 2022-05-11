@@ -1,0 +1,4 @@
+﻿  main.c
+C:\Users\kurut\source\repos\DynamicArray\DynamicArray\main.c(103,47): warning C4090: функция: разные квалификаторы "const"
+C:\Users\kurut\source\repos\DynamicArray\DynamicArray\main.c(103,47): warning C4113: "int (__cdecl *)(int *,int *)" отличается в списках параметров от "_CoreCrtNonSecureSearchSortCompareFunction"
+  DynamicArray.vcxproj -> C:\Users\kurut\source\repos\DynamicArray\x64\Debug\DynamicArray.exe

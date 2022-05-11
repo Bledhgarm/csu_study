@@ -1,0 +1,5 @@
+﻿  main.c
+C:\Users\kurut\source\repos\VariableNumberOfArgs\VariableNumberOfArgs\main.c(8,1): warning C4133: инициализация: несовместимые типы - из "int *" в "double *"
+C:\Users\kurut\source\repos\VariableNumberOfArgs\VariableNumberOfArgs\main.c(35,9): warning C4477: "printf": в строке форматирования "%d" требуется аргумент типа "int", но вариативный аргумент "1" имеет тип "double"
+C:\Users\kurut\source\repos\VariableNumberOfArgs\VariableNumberOfArgs\main.c(36,9): warning C4477: "printf": в строке форматирования "%d" требуется аргумент типа "int", но вариативный аргумент "1" имеет тип "double"
+  VariableNumberOfArgs.vcxproj -> C:\Users\kurut\source\repos\VariableNumberOfArgs\x64\Debug\VariableNumberOfArgs.exe

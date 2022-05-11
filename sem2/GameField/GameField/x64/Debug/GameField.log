@@ -1,0 +1,4 @@
+﻿  main.c
+C:\Users\kurut\Desktop\GameField\GameField\main.c(22,19): warning C4244: функция: преобразование "time_t" в "unsigned int", возможна потеря данных
+C:\Users\kurut\Desktop\GameField\GameField\main.c(150,57): warning C4305: функция: усечение из "double" в "float"
+  GameField.vcxproj -> C:\Users\kurut\Desktop\GameField\x64\Debug\GameField.exe

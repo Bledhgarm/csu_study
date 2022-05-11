@@ -1,0 +1,8 @@
+﻿  main.c
+C:\Users\kurut\Desktop\csu_study\sem2\GameField\GameField\main.c(20,19): warning C4244: функция: преобразование "time_t" в "unsigned int", возможна потеря данных
+C:\Users\kurut\Desktop\csu_study\sem2\GameField\GameField\main.c(157,57): warning C4305: функция: усечение из "double" в "float"
+  Создание кода
+  Previous IPDB and IOBJ mismatch, fall back to full compilation.
+  All 14 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Создание кода завершено
+  GameField.vcxproj -> C:\Users\kurut\Desktop\csu_study\sem2\GameField\x64\Release\GameField.exe

@@ -1,0 +1,6 @@
+﻿  main.c
+C:\Users\kurut\source\repos\Student_list\Student_list\main.c(318,20): warning C4133: функция: несовместимые типы - из "student *" в "linkedlist *"
+C:\Users\kurut\source\repos\Student_list\Student_list\main.c(322,20): warning C4133: функция: несовместимые типы - из "student *" в "linkedlist *"
+C:\Users\kurut\source\repos\Student_list\Student_list\main.c(317,1): warning C4133: инициализация: несовместимые типы - из "linkedlist *" в "student *"
+C:\Users\kurut\source\repos\Student_list\Student_list\main.c(321,1): warning C4133: инициализация: несовместимые типы - из "linkedlist *" в "student *"
+  Student_list.vcxproj -> C:\Users\kurut\source\repos\Student_list\x64\Debug\Student_list.exe

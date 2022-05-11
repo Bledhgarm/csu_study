@@ -1,0 +1,4 @@
+﻿  main.c
+C:\Users\kurut\source\repos\VariableNumberOfArgs\VariableNumberOfArgs\dyn_arr.h(22,57): warning C4090: функция: разные квалификаторы "const"
+C:\Users\kurut\source\repos\VariableNumberOfArgs\VariableNumberOfArgs\main.c(11,1): warning C4133: инициализация: несовместимые типы - из "int *" в "double *"
+  VariableNumberOfArgs.vcxproj -> C:\Users\kurut\source\repos\VariableNumberOfArgs\Debug\VariableNumberOfArgs.exe
