@@ -1,3 +1,0 @@
-﻿raylib.lib(rcore.obj) : error LNK2001: неразрешенный внешний символ timeBeginPeriod.
-raylib.lib(rcore.obj) : error LNK2001: неразрешенный внешний символ timeEndPeriod.
-C:\Users\kurut\source\repos\2dAnimation\x64\Release\2dAnimation.exe : fatal error LNK1120: неразрешенных внешних элементов: 2

@@ -1,5 +1,10 @@
 ﻿  main.c
-LINK : warning LNK4098: библиотека по умолчанию "MSVCRT" конфликтует с использованием других библиотек; используйте /NODEFAULTLIB:library
-raylib.lib(rcore.obj) : error LNK2019: ссылка на неразрешенный внешний символ timeBeginPeriod в функции InitWindow.
-raylib.lib(rcore.obj) : error LNK2019: ссылка на неразрешенный внешний символ timeEndPeriod в функции CloseWindow.
-C:\Users\kurut\source\repos\2dAnimation\x64\Debug\2dAnimation.exe : fatal error LNK1120: неразрешенных внешних элементов: 2
+C:\Users\kurut\Desktop\2dAnimation\2dAnimation\main.c(20,52): warning C4244: функция: преобразование "int" в "float", возможна потеря данных
+C:\Users\kurut\Desktop\2dAnimation\2dAnimation\main.c(45,53): warning C4244: +=: преобразование "double" в "int", возможна потеря данных
+C:\Users\kurut\Desktop\2dAnimation\2dAnimation\main.c(46,56): warning C4244: +=: преобразование "double" в "int", возможна потеря данных
+C:\Users\kurut\Desktop\2dAnimation\2dAnimation\main.c(51,15): warning C4244: функция: преобразование "time_t" в "unsigned int", возможна потеря данных
+C:\Users\kurut\Desktop\2dAnimation\2dAnimation\main.c(58,40): warning C4244: инициализация: преобразование "float" в "int", возможна потеря данных
+C:\Users\kurut\Desktop\2dAnimation\2dAnimation\main.c(59,49): warning C4244: инициализация: преобразование "float" в "int", возможна потеря данных
+C:\Users\kurut\Desktop\2dAnimation\2dAnimation\main.c(58,137): warning C4244: инициализация: преобразование "float" в "int", возможна потеря данных
+C:\Users\kurut\Desktop\2dAnimation\2dAnimation\main.c(59,147): warning C4244: инициализация: преобразование "float" в "int", возможна потеря данных
+  2dAnimation.vcxproj -> C:\Users\kurut\Desktop\2dAnimation\x64\Debug\2dAnimation.exe
