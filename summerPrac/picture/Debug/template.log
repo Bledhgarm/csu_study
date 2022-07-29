@@ -1,0 +1,8 @@
+﻿cl : командная строка warning D9035: использование параметра "Gm" нежелательно, он будет удален в следующих выпусках
+  main.c
+C:\Users\kurut\Desktop\prac\lab\6\examples\picture\main.c(270,51): warning C4013: changeBitmapBW: нет определения; предполагается "extern" с возвратом типа "int"
+C:\Users\kurut\Desktop\prac\lab\6\examples\picture\main.c(270,68): warning C4047: =: "HBITMAP" отличается по уровням косвенного обращения от "int"
+C:\Users\kurut\Desktop\prac\lab\6\examples\picture\main.c(282,56): warning C4013: kageBunshinNoDjutsu: нет определения; предполагается "extern" с возвратом типа "int"
+C:\Users\kurut\Desktop\prac\lab\6\examples\picture\main.c(282,73): warning C4047: =: "HBITMAP" отличается по уровням косвенного обращения от "int"
+bmp.obj : warning LNK4075: не учитывается "/EDITANDCONTINUE" из-за спецификации "/INCREMENTAL:NO"
+  template.vcxproj -> C:\Users\kurut\Desktop\prac\lab\6\examples\picture\Debug\picture.exe

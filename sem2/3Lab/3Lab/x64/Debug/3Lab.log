@@ -1,0 +1,3 @@
+﻿  str.c
+C:\Users\kurut\Desktop\3Lab\3Lab\str.c(51,28): warning C4244: return: преобразование "__int64" в "int", возможна потеря данных
+  3Lab.vcxproj -> C:\Users\kurut\Desktop\3Lab\x64\Debug\3Lab.exe

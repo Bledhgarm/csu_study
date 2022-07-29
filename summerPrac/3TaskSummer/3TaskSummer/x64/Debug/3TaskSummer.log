@@ -1,0 +1,4 @@
+﻿  strOperations.c
+C:\Users\kurut\Desktop\3TaskSummer\3TaskSummer\strOperations.c(88,12): warning C4090: =: разные квалификаторы "const"
+C:\Users\kurut\Desktop\3TaskSummer\3TaskSummer\strOperations.c(106,27): warning C4090: =: разные квалификаторы "const"
+  3TaskSummer.vcxproj -> C:\Users\kurut\Desktop\3TaskSummer\x64\Debug\3TaskSummer.exe

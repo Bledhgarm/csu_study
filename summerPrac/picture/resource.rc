@@ -1,0 +1,31 @@
+#include <windows.h>
+#include "resource.h"
+
+
+MainIcon    ICON    "icon.ico"
+
+Bitmap1     BITMAP  "bitmap.bmp"
+
+
+MainMenu    MENU {
+	POPUP "&DeadInside"
+		{
+		MENUITEM "&Открыть\tCtrl+o", IDM_OPEN
+        MENUITEM "Открыть из &ресурсов", IDM_OPEN2
+        MENUITEM "&Сохранить\tCtrl+s", IDM_SAVE
+        MENUITEM "&Преобразовать\tCtrl+i", IDM_INVERT
+        MENUITEM "&Оттенки серого\tCtrl+g", IDM_GRAYSTYLE
+        MENUITEM "&Светлее", IDM_LIGHTER
+        MENUITEM "&Темнее", IDM_DARKER
+        MENUITEM "&Чёрно белый режим", IDM_BLACKWHITE
+        MENUITEM "&Зеркально отразить по горизонтали", IDM_TURN
+        MENUITEM "&Создать плитку из 4 изображений", IDM_KAGEBUNSHINOJUTSU
+		}
+	}
+
+Accel   ACCELERATORS {
+	"^o", IDM_OPEN
+    "^s", IDM_SAVE
+    "^i", IDM_INVERT
+    "^g", IDM_GRAYSTYLE
+}
